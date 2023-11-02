@@ -1,4 +1,4 @@
-# Printer service
+# HTML to PDF printer service
 
 A headless browser in a Docker container that can login to a platform
 and print any URL to a PDF.
